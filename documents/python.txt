@@ -1,2 +1,19 @@
 for comments we can use # // single line comment
 ''' or """ can be used for the multiple line comments
+in the python we have 35 keywords
+always the varable received from the input is string by default we need to convert required type (typecast)
+
+
+************operators****************
++ ,-,*,/,%,//,**
+// flooring operator removes the value after the decimal point
+** power operator gives the power of the given number
+
+****************Datatypes*************
+numeric(int , float ,complex)
+sequence types(string ,list[],tuple())
+boolean(true=1,flase=0)
+set{}
+dictionary
+******************************************
+
