@@ -1,0 +1,2 @@
+for comments we can use # // single line comment
+''' or """ can be used for the multiple line comments
