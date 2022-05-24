@@ -17,3 +17,22 @@ set{}
 dictionary
 ******************************************
 
+##########strings############
+string are immutable
+to find the length of the string we use len()
+we can't delete are remove a character from the  string
+we can reassign eniter string 
+we can delete enter string //del(name)
+we can get the sub string fromthe main string that is called sciling
+print(name[1:4]) //[start:end:step]
+to reverse a string we use //print(name[::-1])
+
+string operation 
+ string concatenation 
+ name1+name2
+ name*2
+
+ membership 
+
+ in 
+ not in

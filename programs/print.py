@@ -17,3 +17,5 @@ print(type(m))
 #always the varable received from the input is string we need to convert required type
 n=int(input("entet the value"))
 print(type(n))
+
+
